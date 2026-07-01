@@ -3,7 +3,7 @@
 ```diff
 + System breach detected.
 + Usuário: Paulo Santos
-+ Status: Estudante de Front-End decodificando a Matrix.
++ Status: Estudante de Front-End.
 
 🔌 Habilidades: HTML | CSS | JavaScript
 👁️ Atualmente explorando: Tecnologias modernas de front-end
