@@ -1,8 +1,8 @@
-# Wake up... 🐇
+# Wake up... 
 
 **System breach detected.**
 **Usuário:** Paulo Santos
-**Status:** Estudante de Front-End decodificando a Matrix.
+**Status:** Estudante de Front-End.
 
 ---
 
