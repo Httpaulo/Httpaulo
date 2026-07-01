@@ -10,7 +10,7 @@
 
 + Linguagens Base: HTML5, CSS3, JavaScript
 + Ferramentas Plugadas: Git, GitHub, VS Code
-+ Estilização: Tailwind CSS
+
 
 + LinkedIn: []
 + Portfólio: []
