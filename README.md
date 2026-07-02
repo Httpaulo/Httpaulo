@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=DotGothic16&color=#006B3C&size=50&center=true&vCenter=true&width=800&lines=Loading...;Welcome+to+the+Rabbit+Hole" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=DotGothic16&color=006400&size=50&center=true&vCenter=true&width=800&lines=Loading...;Welcome+to+the+Rabbit+Hole" alt="Typing SVG" />
 </div>
 
 ```diff
